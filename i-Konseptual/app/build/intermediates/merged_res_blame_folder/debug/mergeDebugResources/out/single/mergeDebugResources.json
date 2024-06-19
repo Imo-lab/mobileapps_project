@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.hahh.app-debug-32:/layout_activity_rincian.xml.flat",
+        "source": "com.example.hahh.app-main-34:/layout/activity_rincian.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_main2.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_perkating.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_perkating.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_keyword_228882.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/keyword_228882.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-anydpi-v26_pidsus.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-anydpi-v26/pidsus.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_ajpp.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_ajpp.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xhdpi_pidsus.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xhdpi/pidsus.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxxhdpi_pidsus_foreground.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxxhdpi/pidsus_foreground.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xhdpi_pidsus_foreground.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xhdpi/pidsus_foreground.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_signup.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxxhdpi_pidsus.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxxhdpi/pidsus.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-hdpi_pidsus_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-hdpi/pidsus_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/font_inter_semibold.ttf.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxhdpi_pidsus_foreground.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxhdpi/pidsus_foreground.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxhdpi_pidsus_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxhdpi/pidsus_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-mdpi_pidsus_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-mdpi/pidsus_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-hdpi_pidsus_foreground.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-hdpi/pidsus_foreground.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_change_pass.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_change_pass.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_aepp.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_aepp.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_delete.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/delete.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_choice_box.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/choice_box.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_adpp.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_adpp.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_acpp.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_acpp.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_penyelidikan_base.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_penyelidikan_base.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_rincian_base.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_rincian_base.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-hdpi_pidsus.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-hdpi/pidsus.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_button_box.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/button_box.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_penyelidikan.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_penyelidikan.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_crtjadwal.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_crtjadwal.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/font_inter_medium.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/font/inter_medium.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_bookmark.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/bookmark.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/font_lexend_deca.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/font/lexend_deca.xml"
+    },
+    {
+        "merged": "com.example.hahh.app-debug-32:/layout_activity_jadwal.xml.flat",
+        "source": "com.example.hahh.app-main-34:/layout/activity_jadwal.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xhdpi_pidsus_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xhdpi/pidsus_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-anydpi-v26_pidsus_round.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-anydpi-v26/pidsus_round.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_edtjadwal.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_edtjadwal.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_logo_background.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/logo_background.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/font_inter.ttf.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/font/inter.ttf"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_card.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/card.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_login_box.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/login_box.xml"
+    },
+    {
+        "merged": "com.example.hahh.app-debug-32:/layout_activity_main2.xml.flat",
+        "source": "com.example.hahh.app-main-34:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_ujpp.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_ujpp.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-mdpi_pidsus.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-mdpi/pidsus.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_more.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/more.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_jadwal.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_jadwal.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_tambah.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_tambah.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_udpp.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_udpp.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxxhdpi_pidsus_round.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxxhdpi/pidsus_round.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_list.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_list.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_edit.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/edit.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_penyidikan.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/penyidikan.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_penyelidikan.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/penyelidikan.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_penyidikan.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_penyidikan.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/layout_activity_rincian.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/layout/activity_rincian.xml"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-xxhdpi_pidsus.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-xxhdpi/pidsus.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/drawable_schedule_8920752.png.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/drawable/schedule_8920752.png"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-mdpi_pidsus_foreground.webp.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-mdpi/pidsus_foreground.webp"
+    },
+    {
+        "merged": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-debug-32:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/amd/.gradle/daemon/8.6/com.example.hahh.app-main-34:/mipmap-anydpi/ic_launcher.xml"
+    }
+]
